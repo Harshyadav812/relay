@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Cloud Agent Documentation
+
+If you're wondering how cloud agents (like GitHub Copilot) work with this repository, please see [CLOUD_AGENT.md](./CLOUD_AGENT.md) for a detailed explanation of the PR-based workflow.
+
 ## Getting Started
 
 First, run the development server:
